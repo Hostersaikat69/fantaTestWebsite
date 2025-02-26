@@ -1,16 +1,16 @@
 @font-face {
-    font-family: Product Sans;
+    font-family: newFont;
     src: url(ps.ttf);
 }
 @font-face {
-    font-family: Product Sans B;
+    font-family: newFontB;
     src: url(psb.ttf);
 }
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Product Sans;
+    font-family: newFont;
 }
 
 html , body{
@@ -123,7 +123,7 @@ nav i{
 
 .one h1{
     font-size: 25vw;
-    font-family: Product Sans B;
+    font-family: newFontB;
     color: #fff;
 }
 
